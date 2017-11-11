@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Home
+#subtitle: by HTML5 UP
+email: pranitarsharma@gmail.com,prsharma@ncsu.edu
+description: M.S. in Computer Science <br /> Actively looking for Summer Internships Up
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 3002 Kings Court
+city: Raleigh
+state: NC
+zip_code: 27606
 country: United States of America
-phone: (716) 555-5555
+phone: (984) 218-8069
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
+gitlab_url: https://github.com/pranita-s
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/pranita-s
+pinterest_url: https://in.pinterest.com/pranitarsharma/
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url:
 
 # build settings
 markdown: kramdown
